@@ -1,0 +1,5 @@
+theme: jekyll-theme-hacker  # or cayman/minimal
+title: Your CTF Writeups
+description: Collection of security challenge solutions
+show_downloads: false
+plugins: [jekyll-feed]
